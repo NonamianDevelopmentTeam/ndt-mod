@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ndt_mod:blocks/pink_dirt",
+    "up": "ndt_mod:blocks/pink_dirt",
+    "north": "ndt_mod:blocks/pink_dirt",
+    "east": "ndt_mod:blocks/pink_dirt",
+    "south": "ndt_mod:blocks/pink_dirt",
+    "west": "ndt_mod:blocks/pink_dirt",
+    "particle": "ndt_mod:blocks/pink_dirt"
+  }
+}

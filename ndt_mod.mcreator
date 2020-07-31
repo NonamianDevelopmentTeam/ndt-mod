@@ -1,10 +1,32 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "PinkDirt",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_dirt"
+    },
+    {
+      "name": "OrangeBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_block"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.ndt_mod.pink_dirt": "Pink Dirt",
+      "block.ndt_mod.orange_block": "Orange Block"
+    }
   },
   "workspaceSettings": {
     "modid": "ndt_mod",
